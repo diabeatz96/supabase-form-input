@@ -1,5 +1,8 @@
 ## Project Summary
 
+
+DIE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 ## Shotgun on that B
 
 This project implements a single-page React application that functions as a user-friendly form for data submission to a Supabase database. It incorporates the following features:
