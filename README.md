@@ -1,7 +1,7 @@
 ## Project Summary
 
 This project implements a single-page React application that functions as a user-friendly form for data submission to a Supabase database. It incorporates the following features:
-
+jhadbckhabvwkjdchbawudcbh
 - **Inquiry Limit:** Manages the number of concurrent inquiries to prevent overwhelming the system.
 - **Basic Authentication:** Employs Supabase for user login, ensuring data security.
 - **Photo Uploads:** Enables users to upload photos and store them within the Supabase database.
