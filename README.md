@@ -80,3 +80,5 @@ jhadbckhabvwkjdchbawudcbh
 - **Localization (Optional):** If targeting a global audience, consider localization support for different languages.
 
 By following this checklist and incorporating the best practices mentioned, you'll create a robust and user-friendly React application that effectively collects data using Supabase.
+
+Temurbek Sayfutdinov
