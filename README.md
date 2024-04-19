@@ -1,15 +1,6 @@
 ## Project Summary
 
-
-DIE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-## Shotgun on that B
-
-## this is AB's change
-
 ## EasyMeets #1
-
-
 This project implements a single-page React application that functions as a user-friendly form for data submission to a Supabase database. It incorporates the following features:
 jhadbckhabvwkjdchbawudcbh
 - **Inquiry Limit:** Manages the number of concurrent inquiries to prevent overwhelming the system.
@@ -88,5 +79,3 @@ jhadbckhabvwkjdchbawudcbh
 - **Localization (Optional):** If targeting a global audience, consider localization support for different languages.
 
 By following this checklist and incorporating the best practices mentioned, you'll create a robust and user-friendly React application that effectively collects data using Supabase.
-
-Temurbek Sayfutdinov - Easy Meets Intern
